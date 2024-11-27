@@ -1,6 +1,6 @@
 <h1>🎮 Memory Game Project</h1>
 A fun and interactive memory card-matching game built with TypeScript! Flip cards to find matching pairs and test your memory skills. This project reinforces concepts like classes, interfaces, and event handling in TypeScript.
-<br>
+</br>
 <h3>Live Demo</h3> 
 https://matchgamecards.netlify.app/
 <h3>
@@ -27,15 +27,20 @@ HTML5: Structure
 CSS3: Styling and layout
 ⚙️ Setup and Installation
 Clone the Repository:
+</br>
 
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/Ahmed-eldaker/matchCardsGame-TS.git
+</br>
 cd memory-game
+</br>
 Install TypeScript:
-
+</br>
 npm install -g typescript
+</br>
 Compile the TypeScript File:
-
+</br>
 tsc game.ts
+</br>
 Open index.html in Your Browser.
 <h3>
 🎮 How to Play
@@ -48,8 +53,11 @@ Match all pairs to win the game!
 🧩 Code Overview
 </h3>
 Project Structure:
+</br>
 index.html: Basic HTML structure
+</br>
 styles.css: Styles the game board and cards
+</br>
 game.ts: Core TypeScript logic, including:
 Card creation and shuffling
 Event handling for card flips
