@@ -1,7 +1,8 @@
-🎮 Memory Game Project
+<h1>🎮 Memory Game Project</h1>
 A fun and interactive memory card-matching game built with TypeScript! Flip cards to find matching pairs and test your memory skills. This project reinforces concepts like classes, interfaces, and event handling in TypeScript.
 
 🔗 Live Demo
+https://matchgamecards.netlify.app/
 
 📋 Table of Contents
 Features
